@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32-PoE_Rev_D")(type "Legacy")(uri "${KIPRJMOD}/ESP32-PoE_Rev_D.lib")(options "")(descr ""))
+  (lib (name "ADS1263IPWR")(type "KiCad")(uri "/home/cc/cs61c/su24/class/cs61c-aem/Downloads/Prototype#1-20240621T073124Z-001/Prototype#1/ADS1263IPWR/ADS1263IPWR.kicad_sym")(options "")(descr ""))
+)
